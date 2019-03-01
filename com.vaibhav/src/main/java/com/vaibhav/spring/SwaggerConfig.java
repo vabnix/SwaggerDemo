@@ -28,6 +28,6 @@ public class SwaggerConfig {
 	
 	private ApiInfo apiInfo() {
 		return new ApiInfoBuilder().title("RestApi Service Listing").description("Implementing Swagger")
-				.termsOfServiceUrl("http://lwolf.com").contact("Vaibhav Srivastava").version("1.0").build();
+				.termsOfServiceUrl("http://vabnix.com").contact("Vaibhav Srivastava").version("1.0").build();
 	}
 }
